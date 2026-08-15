@@ -26,20 +26,24 @@ The program:
 ## How to run
 
 Install Pillow if it is not already installed:
+```bash
 pip install pillow
+```
 Then run-
+```bash
 python shirt.py input.jpg output.jpg
+```
 The input and output files must use the same image extension.
 
 ## What I practiced
 
 This project helped me practice:
 
-Command-line arguments with sys.argv
-Conditional statements
-String methods such as endswith() and lower()
-File handling with with
-Image manipulation using Pillow
-Image resizing and cropping
-Applying an image overlay using a mask
-Handling invalid user input with sys.exit()
+* Command-line arguments with sys.argv
+* Conditional statements
+* String methods such as endswith() and lower()
+* File handling with with
+* Image manipulation using Pillow
+* Image resizing and cropping
+* Applying an image overlay using a mask
+* Handling invalid user input with sys.exit()
